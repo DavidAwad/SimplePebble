@@ -51,6 +51,7 @@ pebble install --phone 192.168.1.9
 
 And that's it.  Now you can start building on the Pebble with their regular docs for `C`. 
 
+### I can't recommend their guide for C enough. [Check it out](https://developer.pebble.com/tutorials/watchface-tutorial/part1/)
 
 ## Troubleshooting
 
