@@ -4,7 +4,7 @@ This is a simple guide to build a pebble app for someone who actually knows how 
 ## Dependencies 
   Start by installing pebble bindings.
 
-  ````brew install pebble```
+  ```brew install pebble```
 
 
 To make sure this is working, run the unsurprising `pebble` command. 
